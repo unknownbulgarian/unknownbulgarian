@@ -3,8 +3,3 @@
 
 **I have mastered full stack development since the age of 17.**
 
-You can find me on:
-
-• [Instagram](https://www.instagram.com/dn8.sw)
-
-• Discord - charonhim
